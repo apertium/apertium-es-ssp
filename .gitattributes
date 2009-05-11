@@ -13,7 +13,6 @@
 /apertium-es-ssp.es.tsx -text
 /apertium-es-ssp.post-ssp.dix -text
 /apertium-es-ssp.ssp.dix -text
-/apertium-es-ssp.ssp.dix-NOU -text
 /autogen.sh -text
 /configure.ac -text
 /es-ssp.prob -text svneol=unset#unset
