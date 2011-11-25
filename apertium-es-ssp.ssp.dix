@@ -5905,175 +5905,175 @@
     </pardef>
 
 
-<pardef n="/ëamacea__vblex">
+<pardef n="/aëmacea__vblex">
       <e>
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="sg"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="sg"/></r> 
       </p>
     </e>
 <e>
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="pl"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="pl"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="ger"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="ger"/></r> 
       </p>
     </e>   
     <e r="RL">
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="inf"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="inf"/></r> 
       </p>
     </e> 
 <e r="RL">
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="pp"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="pp"/></r> 
       </p>
     </e> 
  <e r="RL">
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="sg"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="sg"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="pl"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="pl"/></r> 
       </p>
     </e>
     <e>
       <p>
         <l></l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
      <e>
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
    
 
    <e>
       <p>
-        <l>elëamawoc</l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p1"/><s n="sg"/></r> 
+        <l>elaëmawoc</l> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
 
 
     <e>
       <p>
-        <l>elëamawoc</l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p1"/><s n="pl"/></r> 
+        <l>elaëmawoc</l> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
 
 
  <e>
       <p>
-        <l>ylëamawooc</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p1"/><s n="sg"/></r> 
+        <l>ylaëmawooc</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
 
 
     <e>
       <p>
-        <l>ylëamawooc</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p1"/><s n="pl"/></r> 
+        <l>ylaëmawooc</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
 
   <e>
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p2"/><s n="sg"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>ëamaceaby</l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p2"/><s n="pl"/></r> 
+        <l>aëmaceaby</l> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
 
   <e>
       <p>
         <l></l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>ëamacea</l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
+        <l>aëmacea</l> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
 
 
  <e>
       <p>
-        <l>ylëamacia</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p2"/><s n="sg"/></r> 
+        <l>ylaëmacia</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>ylëamaciaby</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p2"/><s n="pl"/></r> 
+        <l>ylaëmaciaby</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
    <e>
       <p>
-        <l>ëamawey</l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p3"/><s n="sg"/></r> 
+        <l>aëmawey</l> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>ëamaweybo</l> 
-        <r>ëamacea<s n="vblex"/><s n="p1"/><s n="p3"/><s n="pl"/></r> 
+        <l>aëmaweybo</l> 
+        <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>elëamacya</l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p3"/><s n="sg"/></r> 
+        <l>elaëmacya</l> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>elëamacyabo</l> 
-        <r>ëamacea<s n="vblex"/><s n="p2"/><s n="p3"/><s n="pl"/></r> 
+        <l>elaëmacyabo</l> 
+        <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
  
     <e>
       <p>
-        <l>ylëamacia</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p3"/><s n="sg"/></r> 
+        <l>ylaëmacia</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>ylëamacia</l> 
-        <r>ëamacea<s n="vblex"/><s n="p3"/><s n="p3"/><s n="pl"/></r> 
+        <l>ylaëmacia</l> 
+        <r>aëmacea<s n="vblex"/><s n="p3"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
     </pardef>
@@ -7487,53 +7487,53 @@
     </pardef>
 
 
-<pardef n="/semaho:òamezpfahhob__vblex">
+<pardef n="/semaho:òamezpfahob__vblex">
       <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="sg"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="sg"/></r> 
       </p>
     </e>
 <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="pl"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="pl"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="ger"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="ger"/></r> 
       </p>
     </e>   
     <e r="RL">
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="inf"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="inf"/></r> 
       </p>
     </e> 
  <e r="RL">
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="sg"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="sg"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="pl"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="pl"/></r> 
       </p>
     </e>
     <e>
       <p>
         <l></l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
      <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
    
@@ -7541,7 +7541,7 @@
    <e>
       <p>
         <l>semahe:òamozpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p1"/><s n="sg"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -7549,7 +7549,7 @@
     <e>
       <p>
         <l>semahe:òamozpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p1"/><s n="pl"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -7557,7 +7557,7 @@
     <e>
       <p>
         <l>pm.semahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p1"/><s n="sg"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -7565,35 +7565,35 @@
     <e>
       <p>
         <l>pm.semahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p1"/><s n="pl"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
 
   <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p2"/><s n="sg"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p2"/><s n="pl"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
 
   <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>semaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
+        <l>semaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -7601,55 +7601,55 @@
  <e>
       <p>
         <l>semahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p2"/><s n="sg"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
         <l>semahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p2"/><s n="pl"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
    <e>
       <p>
-        <l>eylsemaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p3"/><s n="sg"/></r> 
+        <l>eylsemaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>eylsemaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p1"/><s n="p3"/><s n="pl"/></r> 
+        <l>eylsemaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>eylsemaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p3"/><s n="sg"/></r> 
+        <l>eylsemaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>eylsemaho:òamezpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p2"/><s n="p3"/><s n="pl"/></r> 
+        <l>eylsemaho:òamezpfahob</l> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p2"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
  
     <e>
       <p>
         <l>eilsemahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p3"/><s n="sg"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p3"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
         <l>eilsemahy:òamizpfahhob</l> 
-        <r>semaho:òamezpfahhob<s n="vblex"/><s n="p3"/><s n="p3"/><s n="pl"/></r> 
+        <r>semaho:òamezpfahob<s n="vblex"/><s n="p3"/><s n="p3"/><s n="pl"/></r> 
       </p>
     </e>
     </pardef>
@@ -9110,7 +9110,7 @@
 
 <!--  dirección a;pr --><e lm="direcció a"><i>direcció<b/>a</i><par n="schomaze__pr"/></e>
 
-<!--  al poco de;pr --><e lm="ebemiucrea"><i>ebemiucrea</i><par n="schomaze__pr"/></e>
+<!--  al poco de;pr --><e lm="ebemimucrea"><i>ebemimucrea</i><par n="schomaze__pr"/></e>
 
 <!--  a merced de;pr --><e lm="emadohe"><i>emadohe</i><par n="schomaze__pr"/></e>
 
@@ -9419,7 +9419,7 @@
 
 <!--  mayonesa;n --><e lm="sõámeha:õmipub"><i>sõámeha:õmipub</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  mayo;n --><e lm="semáha:èmimucb"><i>semáha:èmimucb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  mayo;n --><e lm="semáha:émimucb"><i>semáha:émimucb</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  mascarilla;n --><e lm="vó"><i>vó</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -9518,7 +9518,7 @@
 
 <!--  camarero;n --><e lm="abòmemawreiheb"><i>abòmemawreiheb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  bajada;n --><e lm="abòmemuwue"><i>abòmemuwue</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  bajada;n --><e lm="abòmemuweu"><i>abòmemuweu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  balonmano;n --><e lm="abómamupo-we"><i>abómamupo-we</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -9536,9 +9536,9 @@
 
 <!--  derecho;n --><e lm="aeimepeb"><i>aeimepeb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  carta;n --><e lm="ah.sòmimuho:iämamulec"><i>ah.sòmimuho:iämamulec</i><par n="s:òmamudohov__n"/></e>
+<!--  carta;n --><e lm="sah.sòmimuho:iämamulec"><i>sah.sòmimuho:iämamulec</i><par n="s:òmamudohov__n"/></e>
 
-<!--  cartero;n --><e lm="ah.sòmimuho:iämamulecb"><i>ah.sòmimuho:iämamulecb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  cartero;n --><e lm="sah.sòmimuho:iämamulecb"><i>sah.sòmimuho:iämamulecb</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  bandera;n --><e lm="ahsemamuce:òmifaheb"><i>ahsemamuce:òmifaheb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -9802,7 +9802,7 @@
 
 <!--  cultura;n --><e lm="f.emiwraehezpb"><i>f.emiwraehezpb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  infierno;n --><e lm="f.eumamucb slr:omagrewab"><i>f.eumamucb<b/>slr:omagrewab</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  infierno;n --><e lm="f.eumamucb srl:omagrewab"><i>f.eumamucb<b/>srl:omagrewab</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  vaca;n --><e lm="f.eumemufahob"><i>f.eumemufahob</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -9900,9 +9900,9 @@
 
 <!--  adulterio;n --><e lm="hm.ömamafahecro"><i>hm.ömamafahecro</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  hombro;n --><e lm="hn.micb"><i>hn.micb</i><par n="alémamucuywu-olememupe__n"/></e>
+<!--  hombro;n --><e lm="hn.òmicb"><i>hn.òmicb</i><par n="alémamucuywu-olememupe__n"/></e>
 
-<!--  hombros;n --><e lm="hn.micb"><p><l>hn.micb-hm</l><r>hn.micb</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
+<!--  hombros;n --><e lm="hn.òmicb"><p><l>hn.òmicb-hm</l><r>hn.òmicb</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
 
 <!--  muslo;n --><e lm="gm.òcb gmshu:òamima"><i>gm.òcb<b/>gmshu:òamima</i><par n="alémamucuywu-olememupe__n"/></e>
 
@@ -9910,9 +9910,9 @@
 
 <!--  deporte;n --><e lm="hnemà-sohemi"><i>hnemà-sohemi</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  crema;n --><e lm="ihca:òazwreihob"><i>ihca:òazwreihob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  crema;n --><e lm="ihsómimuca:òazwreihob"><i>ihsómimuca:òazwreihob</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  miseria;n --><e lm="ihce:óamizy-i"><i>ihce:óamizy-i</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  miseria;n --><e lm="ihsce:óamizy-i"><i>ihsce:óamizy-i</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  escalofrío;n --><e lm="ihomamuza"><i>ihomamuza</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10141,7 +10141,7 @@
 
 <!--  bebé;n --><e lm="ohsòmimaca:sohômimajwib"><i>ohsòmimaca:sohômimajwib</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  acelga;n --><e lm="ohsòmimuca:abmemu"><i>ohsòmimuca:abmemu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  acelga;n --><e lm="ohsòmimuca:abomemu"><i>ohsòmimuca:abomemu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  victoria;n --><e lm="ohsòmimuca:aëmamucre"><i>ohsòmimuca:aëmamucre</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10373,9 +10373,9 @@
 
 <!--  naturaleza;n --><e lm="s:ulaëmumawawrahe"><i>s:ulaëmumawawrahe</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  canción;n --><e lm="s:ebemechryub"><i>s:ebemechryub</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  canción;n --><e lm="s:ebemechruub"><i>s:ebemechruyb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  villancico;n --><e lm="s:ebemechryub sohhy:ömàmawuib"><i>s:ebemechryub<b/>sohhy:ömàmawub</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  villancico;n --><e lm="s:ebemechruyb sohhy:ömàmawuib"><i>s:ebemechruyb<b/>sohhy:ömàmawub</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  rutina;n --><e lm="s:ebeämewraeheb"><i>s:ebeämewraeheb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10507,9 +10507,9 @@
 
 <!--  chaleco;n --><e lm="s:pmazuy-xm"><i>s:pmazuy-xm</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  fraile;n --><e lm="s:qm.ëamomufaho"><i>s:qm.ëamomufaho</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  fraile;n --><e lm="s:qm.aëmomufaho"><i>s:qm.aëmomufaho</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  desgracia;n --><e lm="s:qmemiu-s:ebomemu"><i>s:qmemiu-s:ebomemu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  desgracia;n --><e lm="s:qmemimu-s:ebomemu"><i>s:qmemimu-s:ebomemu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  cumpleaños;n --><e lm="s:r.aëpeb"><i>s:r.aëpeb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10519,7 +10519,7 @@
 
 <!--  lingüística;n --><e lm="s:schLmegryu"><i>s:schLmegryu</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  historia;n --><e lm="s:sch-s:ebomeu"><i>s:sch-s:ebomeu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  historia;n --><e lm="s:schô-s:ebomemu"><i>s:schô-s:ebomemu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  difusión;n --><e lm="s:schömemugyel"><i>s:schömemugyel</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10645,13 +10645,13 @@
 
 <!--  pausa;n --><e lm="s:òamemupu"><i>s:òamemupu</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  calma;n --><e lm="sòmeaha:òcb"><i>sòmeaha:òcb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  calma;n --><e lm="sòmemaha:òcb"><i>sòmemaha:òcb</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  río;n --><e lm="s:òamejse"><i>s:òamejse</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  carretera;n --><e lm="s:òamuwedaho"><i>s:òamuwedaho</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  vivencia;n --><e lm="s:òamàc s:ym.ômiacb"><i>s:òamàc<b/>s:ym.ômiacb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  vivencia;n --><e lm="s:òamàc s:ym.ômimacb"><i>s:òamàc<b/>s:ym.ômimacb</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  capilla;n --><e lm="s:òãmàcb"><i>s:òãmàcb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10741,17 +10741,17 @@
 
 <!--  muñeca;n --><e lm="sahca:iãfahob"><i>sahca:iãfahob</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  hora;n --><e lm="sahha:ecb"><i>sahha:ecb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  hora;n --><e lm="sahsha:ecb"><i>sahsha:ecb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  delegado;n --><e lm="sahha:eicb"><i>sahha:eicb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  delegado;n --><e lm="sahsha:eicb"><i>sahsha:eicb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  médico;n --><e lm="sahha:eãcb"><i>sahha:eãcb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  médico;n --><e lm="sahsha:eãcb"><i>sahsha:eãcb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  medicina;n --><e lm="sahha:iãcb"><i>sahha:iãcb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  medicina;n --><e lm="sahsha:iãcb"><i>sahsha:iãcb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  reloj;n --><e lm="sahha:écb"><i>sahha:écb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  reloj;n --><e lm="sahsha:écb"><i>sahsha:écb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  chequeo;n --><e lm="sahha:íãc svc:eimàmujwraihob"><i>sahha:íãc<b/>svc:eimàmujwraihob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  chequeo;n --><e lm="sahsha:íác svc:eimàmujwraihob"><i>sahsha:íác<b/>svc:eimàmujwraihob</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  retraso;n --><e lm="sahca:òamifaho"><i>sahca:òamifaho</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10785,7 +10785,7 @@
 
 <!--  campamento;n --><e lm="sc:eumàwuy"><i>sc:eumàwuy</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  enfermero;n --><e lm="sc:f.èìãmàldy"><i>sc:f.èìãmàldy</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  enfermero;n --><e lm="sc:f.ãèìmàldy"><i>sc:f.ãèìmàldy</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  valla;n --><e lm="sc:omamuwy"><i>sc:omamuwy</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10853,7 +10853,7 @@
 
 <!--  razón# por;n --><e lm="sch.omazpe"><i>sch.omazpe</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  castaña;n --><e lm="scar:õmèmupob"><i>scar:õmèmupob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  castaña;n --><!--<e lm="scar:õmèmupob"><i>scar:õmèmupob</i><par n="svc:òamàmafeheb__n"/></e>-->
 
 <!--  tortuga;n --><e lm="sca:òamemu"><i>sca:òamemu</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10865,7 +10865,7 @@
 
 <!--  caño;n --><e lm="sc:eämamuwy v.amapob"><i>sc:eämamuwy<b/>v.amapob</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  naufragio;n --><e lm="sc:õãmègruewu"><i>sc:õãmègruewu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  naufragio;n --><e lm="sc:òãmègruewu"><i>sc:òãmègruewu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  armario;n --><e lm="sc:ömegryo"><i>sc:ömegryo</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10873,7 +10873,7 @@
 
 <!--  trofeo;n --><e lm="sca:ömèjwe"><i>sca:ömèjwe</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  cuñado;n --><e lm="scar:óamimug"><i>scar:óamimug</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  cuñado;n --><!--<e lm="scar:óamimug"><i>scar:óamimug</i><par n="svc:òamàmafeheb__n"/></e>-->
 
 <!--  ostra;n --><e lm="scarl:òmemufahocb"><i>scarl:òmemufahocb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10919,7 +10919,7 @@
 
 <!--  utopía;n --><e lm="semaho:omelei"><i>semaho:omelei</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  maltrato;n --><e lm="semaho:òamezpfahhob"><i>semaho:òamezpfahhob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  maltrato;n --><e lm="semaho:òamezpfahob"><i>semaho:òamezpfahob</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  factura;n --><e lm="semaka:omimuwub"><i>semaka:omimuwub</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -10985,7 +10985,7 @@
 
 <!--  canelones;n --><e lm="shal:emiwraeheb"><i>shal:emiwraeheb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  intercambio;n --><e lm="shal:òmeawraeho"><i>shal:òmeawraeho</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  intercambio;n --><e lm="shal:òmemawraeho"><i>shal:òmemawraeho</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  impuesto;n --><e lm="shar:eimemullb"><i>shar:eimemullb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11035,7 +11035,7 @@
 
 <!--  mímica;n --><e lm="sl:abomamuwub"><i>sl:abomamuwub</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  violación;n --><e lm="slr:ömamacro"><i>slr:ömamacro</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  violación;n --><e lm="srl:ömamacro"><i>srl:ömamacro</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  actor-actriz;n --><e lm="sl:abömawraho"><i>sl:abömawraho</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11081,7 +11081,7 @@
 
 <!--  entrevista;n --><e lm="sl:ch.òmàmaweb"><i>sl:ch.òmàmaweb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  paella;n --><e lm="sl:ebëamepob"><i>sl:ebëamepob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  paella;n --><e lm="sl:ebaëmepob"><i>sl:ebaëmepob</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  robot;n --><e lm="sl:ebòamewub"><i>sl:ebòamewub</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11191,7 +11191,7 @@
 
 <!--  sentido;n --><e lm="c.ocb"><i>c.ocb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  incendio;n --><e lm="slr:omamugrewab"><i>slr:omamugrewab</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  incendio;n --><e lm="srl:omamugrewab"><i>srl:omamugrewab</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  revés;n --><e lm="scorl:emamucre"><i>scorl:emamucre</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11219,7 +11219,7 @@
 
 <!--  santa# alianza;n --><e lm="somimucy:4ºeãmèzi"><i>somimucy:4ºeãmèzi</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  escorpión;n --><e lm="somimuha:èmàfahe"><i>somimuha:èmàfahe</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  escorpión;n --><e lm="somimuha:émàfahe"><i>somimuha:émàfahe</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  velocidad;n --><e lm="somáhy:omèzpoyb"><i>somáhy:omèzpoyb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11354,7 +11354,7 @@
 
 <!--  reglamento;n --><e lm="sòamamuhe:Rmimucru"><i>sòamamuhe:Rmimucru</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  lenguaje;n --><e lm="sòameaha:Lmemuc umemucruy"><i>sòameaha:Lmemuc<b/>umemucruy</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  lenguaje;n --><e lm="sòamemaha:Lmemuc umemucruy"><i>sòamemaha:Lmemuc<b/>umemucruy</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  carnet;n --><e lm="sòamecy:amumat"><i>sòamecy:amumat</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11424,7 +11424,7 @@
 
 <!--  física;n --><e lm="sòamémaca:eilla"><i>sòamémaca:eilla</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  iceberg;n --><e lm="sòamémaca:oãlda kh.ômamagrozp"><i>sòamémaca:oãlda<b/>kh.ômamagrozp</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  iceberg;n --><e lm="sòamémaca:oãlda k.õãmamagrozp"><i>sòamémaca:oãlda<b/>k.õãmamagrozp</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  voltereta;n --><e lm="sòamémaca:èìmumywa-wraheb-wuc"><i>sòamémaca:èìmumywa-wraheb-wuc</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11454,7 +11454,7 @@
 
 <!--  experimento;n --><e lm="sòamémaha:umècb sl:amàmuwraihob"><i>sòamémaha:umècb<b/>sl:amàmuwraihob</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  secta;n --><e lm="s:jm.àèmàmawraihe"><i>s:jm.àèmàmawraihe</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  secta;n --><e lm="s:jm.emàmawraihe"><i>s:jm.emàmawraihe</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  escritor;n --><e lm="sòamémaha:âezpeyb"><i>sòamémaha:âezpeyb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11550,7 +11550,7 @@
 
 <!--  carpintero;n --><e lm="sòmémuca:òamézheib"><i>sòmémuca:òamézheib</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  bota;n --><e lm="sòmémuca:õagzogrewa"><i>sòmémuca:õagzogrewa</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  bota;n --><e lm="sòmémuca:õágzogrewa"><i>sòmémuca:õágzogrewa</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  culpa;n --><e lm="sòmémuha:òmémucb"><i>sòmémuha:òmémucb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11558,7 +11558,7 @@
 
 <!--  garaje;n --><e lm="sòmémuhu:òmèmuwei"><i>sòmémuhu:òmèmuwei</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  carrera# universitaria;n --><e lm="sòméuca:õámazheyb"><i>sòméuca:õámazheyb</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  carrera# universitaria;n --><e lm="sòmémuca:õámazheyb"><i>sòmémuca:õámazheyb</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  voto;n --><e lm="sòãmiha:õamemuku"><i>sòãmiha:õamemuku</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11634,7 +11634,7 @@
 
 <!--  ventana;n --><e lm="sömimuha:soh.ömimucb"><i>sömimuha:soh.ömimucb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  fondo;n --><e lm="söméhy:soh.ömaliu"><i>söméhy:soh.ömaliu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  fondo;n --><e lm="söméhy:soh.ömalui"><i>söméhy:soh.ömalui</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  conserje;n --><e lm="sömémuca:saheizo"><i>sömémuca:saheizo</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11644,7 +11644,7 @@
 
 <!--  fresa;n --><e lm="sömémuha:âecrwreihe"><i>sömémuha:âecrwreihe</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  yogur;n --><e lm="sŏáméha:v.aëmidahob"><i>sŏáméha:v.aëmidahob</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  yogur;n --><e lm="sõáméha:v.aëmidahob"><i>sõáméha:v.aëmidahob</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  hombre;n --><e lm="t.agrob"><i>t.agrob</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11661,8 +11661,8 @@
 <!--  maestros;n --><e lm="t.émamupeb"><p><l>s:t.émamupeb</l><r>t.émamupeb</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
 
 
-<!--  paciente;n --><e lm="ebáémywu sahha:iãcb"><i>ebáémywu<b/>sahha:iãcb</i><par n="alémamucuywu-olememupe__n"/></e>
-<!--  pacientes;n --><e lm="ebáémywu sahha:iãcb"><p><l>ebáémywuby<b/>sahha:iãcb</l><r>ebáémywu<b/>sahha:iãcb</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
+<!--  paciente;n --><e lm="ebáémywu sahsha:iãcb"><i>ebáémywu<b/>sahsha:iãcb</i><par n="alémamucuywu-olememupe__n"/></e>
+<!--  pacientes;n --><e lm="ebáémywu sahsha:iãcb"><p><l>ebáémywuby<b/>sahsha:iãcb</l><r>ebáémywu<b/>sahsha:iãcb</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
 
 <!--  paja;n --><e lm="sc:òãmàldyb"><i>sc:òãmàldyb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11716,8 +11716,8 @@
 
 <!--  aval;n --><e lm="uh.òamifahecb"><i>uh.òamifahecb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  brazo;n --><e lm="uhca:õágzey"><i>uhca:õágzey</i><par n="alémamucuywu-olememupe__n"/></e>
-<!--  brazos;n --><e lm="uhca:õágzey"><p><l>uhca:õágzey-bs</l><r>uhca:õágzey</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
+<!--  brazo;n --><e lm="uhsca:õágzey"><i>uhsca:õágzey</i><par n="alémamucuywu-olememupe__n"/></e>
+<!--  brazos;n --><e lm="uhsca:õágzey"><p><l>uhsca:õágzey-bs</l><r>uhsca:õágzey</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
 
 <!--  tensión;n --><e lm="uhõág"><i>uhõág</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11775,7 +11775,7 @@
 
 <!--  cuerpo;n --><e lm="kaëg s:põamizu"><i>kaëg<b/>s:põamizu</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  turrón;n --><e lm="v.õãmagre"><i>v.õãmagre</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  turrón;n --><e lm="v.ôãmagre"><i>v.ôãmagre</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  juramento;n --><e lm="vFmale"><i>vFmale</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11796,8 +11796,8 @@
 
 <!--  madre;n --><e lm="vmòma-vn"><i>vmòma-vn</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  padre;n --><e lm="fòmiu-ch"><i>fòmiu-ch</i><par n="alémamucuywu-olememupe__n"/></e>
-<!--  padres;n --><e lm="fòmiu-ch"><p><l>fòmiu-ch-vmòma-vn</l><r>fòmiu-ch</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
+<!--  padre;n --><e lm="fòmimu-ch"><i>fòmimch</i><par n="alémamucuywu-olememupe__n"/></e>
+<!--  padres;n --><e lm="fòmimu-ch"><p><l>fòmimu-ch-vmòma-vn</l><r>fòmimu-ch</r></p><par n="s:alémamucuywu-olememupe__n"/></e>
 
 <!--  compromiso;n --><e lm="v.èìwu-vn.èìwy"><i>v.èìwu-vn.èìwy</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11937,7 +11937,7 @@
 
 <!--  pie;n --><e lm="z.èìfehezp"><i>z.èìfehezp</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  tobillo;n --><e lm="z.èìfehezp sahsòmimuce:oãmamalde"><i>z.èìfehezp<b/>sahsòmimuce:oãmamalde</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  tobillo;n --><e lm="z.èìfehezp sahsòmimuce:õãmamalde"><i>z.èìfehezp<b/>sahsòmimuce:õãmamalde</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  loro;n --><e lm="z.émamufaheb"><i>z.émamufaheb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11953,7 +11953,7 @@
 
 <!--  impresión;n --><e lm="ze s:ômemaz"><i>ze<b/>s:ômemaz</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  aroma;n --><e lm="ze z.òmiuqy"><i>ze<b/>z.òmiuqy</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  aroma;n --><e lm="ze z.òmimuqy"><i>ze<b/>z.òmimuqy</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  mal# olor;n --><e lm="ze z.omat"><i>ze<b/>z.omat</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11985,7 +11985,7 @@
 
 <!--  máquina# dispensadora;n --><e lm="äemamulb"><i>äemamulb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  club;n --><e lm="äoma-Bme"><i>äoma-Bme</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  club;n --><e lm="oäma-Bme"><i>oäma-Bme</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  elección;n --><e lm="éãmamuldo"><i>éãmamuldo</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -11995,7 +11995,7 @@
 
 <!--  riñón;n --><e lm="ñm.imucb"><i>ñm.imucb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  yerno;n --><e lm="ñm.ymucreu"><i>ñm.ymucreu</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  yerno;n --><e lm="ñm.Ymucreu"><i>ñm.Ymucreu</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  jamón;n --><e lm="ñm.òmegryu"><i>ñm.òmegryu</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -12039,7 +12039,7 @@
 
 <!--  buen gusto;n --><e lm="th.eãmic"><i>th.eãmic</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  adhesión;n --><e lm="sg:ëamajpeib"><i>sg:ëamajpeib</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  adhesión;n --><e lm="sg:aëmajpeib"><i>sg:aëmajpeib</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  bofetada;n --><e lm="òamámufahe"><i>òamámufahe</i><par n="s:òmamudohov__n"/></e>
 
@@ -12110,7 +12110,7 @@
 
 <!--  pintor;n --><e lm="omumafahob"><i>omumafahob</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  pirata;n --><e lm="jmŏ"><i>jmŏ</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  pirata;n --><e lm="jmõ"><i>jmõ</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  peine;n --><e lm="cm.aëmamafaheb"><i>cm.aëmamafaheb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -12370,7 +12370,7 @@
 
 <!--  temporal;n --><e lm="s:òmajpib"><i>s:òmajpib</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  termómetro;n --><e lm="x.emozpagro"><i>x.emozpagro</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  termómetro;n --><e lm="xn.emozpagro"><i>xn.emozpagro</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  teta;n --><e lm="yn.òac-ym"><i>yn.òac-ym</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -12392,7 +12392,7 @@
 
 <!--  viernes;n --><e lm="ohsmimuca:èìmafeheb"><i>ohsmimuca:èìmafeheb</i><par n="svc:òamàmafeheb__n"/></e>
 
-<!--  virginidad;n --><e lm="scv:pn.imàc"><i>scv:pn.imàc</i><par n="svc:òamàmafeheb__n"/></e>
+<!--  virginidad;n --><e lm="svc:pn.imàc"><i>svc:pn.imàc</i><par n="svc:òamàmafeheb__n"/></e>
 
 <!--  vivienda;n --><e lm="s:òamàcb s:ym.ômimacb"><i>s:òamàcb<b/>s:ym.ômimacb</i><par n="svc:òamàmafeheb__n"/></e>
 
@@ -12425,7 +12425,7 @@
 
 <!--  cuidado;ij --><e lm="s:jema-eämapeb"><i>s:jema-eämapeb</i><par n="omaudahb__ij"/></e>
 
-<!--  felicidades;ij --><e lm="s:ëamapeb"><i>s:ëamapeb</i><par n="omaudahb__ij"/></e>
+<!--  felicidades;ij --><e lm="s:aëmapeb"><i>s:aëmapeb</i><par n="omaudahb__ij"/></e>
 
 <!--  basta;ij --><e lm="sv:òamàmudohe"><i>sv:òamàmudohe</i><par n="omaudahb__ij"/></e>
 
@@ -12433,7 +12433,7 @@
 
 <!--  por favor;ij --><e lm="y.omimucb"><i>y.omimucb</i><par n="omaudahb__ij"/></e>
 
-<!--  ya;ij --><e lm="ym.ŏazpub"><i>ym.ŏazpub</i><par n="omaudahb__ij"/></e>
+<!--  ya;ij --><e lm="ym.õazpub"><i>ym.õazpub</i><par n="omaudahb__ij"/></e>
 
 <!--  menos mal;ij --><e lm="yòazu"><i>yòazu</i><par n="omaudahb__ij"/></e>
 
@@ -12456,7 +12456,7 @@
 
 <!--  suave;adj --><e lm="s:ômimazy"><i>s:ômimazy</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  vice;adj --><e lm="ab2miycre"><i>ab2miycre</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  vice;adj --><e lm="ab2mimycre"><i>ab2mimycre</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  travesti;adj --><e lm="cheimagrec"><i>cheimagrec</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12494,7 +12494,7 @@
 
 <!--  quieto;adj --><e lm="s:òamamupe"><i>s:òamamupe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  químico;adj --><e lm="söméha:öcmèb sl:amàmuwraihob"><i>söméha:öcmèb<b/>sl:amàmuwraihob</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  químico;adj --><e lm="söméha:cömèb sl:amàmuwraihob"><i>söméha:cömèb<b/>sl:amàmuwraihob</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  sordo;adj --><e lm="re-v"><i>re-v</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12526,7 +12526,7 @@
 
 <!--  puro;adj --><e lm="kmizu"><i>kmizu</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  público;adj --><e lm="sc:àèmàmadohe"><i>sc:àèmàmadohe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  público;adj --><e lm="sc:èìmàmadohe"><i>sc:èìmàmadohe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  próximo;adj --><e lm="somehy:amemucb"><i>somehy:amemucb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12550,7 +12550,7 @@
 
 <!--  legal;adj --><e lm="sòamahy:émamugrec"><i>sòamahy:émamugrec</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  as;adj --><e lm="omama-Smau"><i>omama-Smau</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  as;adj --><e lm="omama-Smamu"><i>omama-Smamu</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  paleto;n --><e lm="fémàmullb"><i>fémàmullb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12644,7 +12644,7 @@
 
 <!--  déspota;adj --><e lm="sl:emadaheb"><i>sl:emadaheb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  enfermo;adj --><e lm="sahha:iãcb"><i>sahha:iãcb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  enfermo;adj --><e lm="sahsha:iãcb"><i>sahsha:iãcb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  óptimo;adj --><e lm="Fmapeb"><i>Fmapeb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12692,7 +12692,7 @@
 
 <!--  huérfano;adj --><e lm="f.òmimu-ch-vm.òma-vn òmafahe"><i>f.òmimu-ch-vm.òma-vn<b/>òmafahe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  helado;adj --><e lm="kh.ômaacro"><i>kh.ômaacro</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  helado;adj --><e lm="kh.ômamacro"><i>kh.ômamacro</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  guarro;adj --><e lm="kòmazpe"><i>kòmazpe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12754,7 +12754,7 @@
 
 <!--  minero;adj --><e lm="fömamulb"><i>fömamulb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  médico;adj --><e lm="sahha:eãcb"><i>sahha:eãcb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  médico;adj --><e lm="sahsha:eãcb"><i>sahsha:eãcb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  transparente;adj --><e lm="somamaho:jeimemuweke"><i>somamaho:jeimemuweke</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12766,7 +12766,7 @@
 
 <!--  futuro;adj --><e lm="abõamewe"><i>abõamewe</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  cuarto;adj --><e lm="oämiugre4"><i>oämiugre4</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  cuarto;adj --><e lm="oämimugre-4mi"><i>oämimugre-4mi</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  famoso;adj --><e lm="re-omamapeb"><i>re-omamapeb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12812,7 +12812,7 @@
 
 <!--  gigante;adj --><e lm="abõamacao"><i>abõamacao</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  último;adj --><e lm="sv:òmamuwycui"><i>sv:òmamuwycui</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  último;adj --><e lm="sv:òmamucuiwy"><i>sv:òmamucuiwy</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  manipulador;adj --><e lm="aumemugreb"><i>aumemugreb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -12958,7 +12958,7 @@
 
 <!--  urgente;adj --><e lm="s:omemadoheb"><i>s:omemadoheb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  ligero;adj --><e lm="s:omemawriaheb"><i>s:omemawriaheb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  ligero;adj --><e lm="s:omemawraiheb"><i>s:omemawraiheb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  lento;adj --><e lm="s:omemuwraihob"><i>s:omemuwraihob</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -13004,7 +13004,7 @@
 
 <!--  unánime;adj --><e lm="sc:ômajwreiho"><i>sc:ômajwreiho</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  boquiabierto;adj --><e lm="scal:ómemufaho"><i>scal:ómemufaho</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  boquiabierto;adj --><!--<e lm="scal:ómemufaho"><i>scal:ómemufaho</i><par n="chòãmizldu-ch.ômic__adj"/></e>-->
 
 <!--  aceptable;adj --><e lm="sch.õazpeb"><i>sch.õazpeb</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -13014,7 +13014,7 @@
 
 <!--  horrible;adj --><e lm="schomall"><i>schomall</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
-<!--  diferente;adj --><e lm="scv:emègrowy"><i>scv:emègrowy</i><par n="chòãmizldu-ch.ômic__adj"/></e>
+<!--  diferente;adj --><e lm="svc:emègrowy"><i>svc:emègrowy</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
 <!--  utópico;adj --><e lm="semaho:omelei"><i>semaho:omelei</i><par n="chòãmizldu-ch.ômic__adj"/></e>
 
@@ -13321,7 +13321,7 @@
 
 <!--  tal y como;cnjadv --><e lm="s:iämamudohel"><i>s:iämamudohel</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  así como;cnjadv --><e lm="s:iämaudohel"><i>s:iämaudohel</i><par n="ch.óacb__cnjadv"/></e>
+<!--  así como;cnjadv --><e lm="s:iämamudohel"><i>s:iämamudohel</i><par n="ch.óacb__cnjadv"/></e>
 
 <!--  ni aun así;cnjadv --><e lm="s:omuma-umamu"><i>s:omuma-umamu</i><par n="ch.óacb__cnjadv"/></e>
 
@@ -13337,7 +13337,7 @@
 
 <!--  independientemente de que;cnjadv --><e lm="sca:òmemujcya"><i>sca:òmemujcya</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  fuera de que;cnjadv --><e lm="scar:òmmyjwa"><i>scar:òmmyjwa</i><par n="ch.óacb__cnjadv"/></e>
+<!--  fuera de que;cnjadv --><!--<e lm="scar:òmmyjwa"><i>scar:òmmyjwa</i><par n="ch.óacb__cnjadv"/></e>-->
 
 <!--  basta con que;cnjadv --><e lm="sch.aumac"><i>sch.aumac</i><par n="ch.óacb__cnjadv"/></e>
 
@@ -13359,7 +13359,7 @@
 
 <!--  igual que;cnjadv --><e lm="scol:õmawo"><i>scol:õmawo</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  según;cnjadv --><e lm="shal:emèuzphu"><i>shal:emèuzphu</i><par n="ch.óacb__cnjadv"/></e>
+<!--  según;cnjadv --><e lm="shal:emèmuzphu"><i>shal:emèmuzphu</i><par n="ch.óacb__cnjadv"/></e>
 
 <!--  para lo cual;cnjadv --><e lm="semaho:emec"><i>semaho:emec</i><par n="ch.óacb__cnjadv"/></e>
 
@@ -13369,13 +13369,13 @@
 
 <!--  con el fin;cnjadv --><e lm="semaho:emewec"><i>semaho:emewec</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  excepto que;cnjadv --><e lm="sòamacy:õamàmazpu"><i>sòamacy:õamàmazpu</i><par n="ch.óacb__cnjadv"/></e>
+<!--  excepto que;cnjadv --><e lm="sòamacy:õmazpu"><i>sòamacy:õmazpu</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  salvo que;cnjadv --><e lm="sòamacy:õamàmazpu ch.óacb"><i>sòamacy:õamàmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  salvo que;cnjadv --><e lm="sòamacy:õmazpu ch.óacb"><i>sòamacy:õmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  excepto si;cnjadv --><e lm="sòamacy:õamàmazpu ch.óacb"><i>sòamacy:õamàmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  excepto si;cnjadv --><e lm="sòamacy:õmazpu ch.óacb"><i>sòamacy:õmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  a menos que;cnjadv --><e lm="sòamacy:õamàmazpu ch.óacb"><i>sòamacy:õamàmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  a menos que;cnjadv --><e lm="sòamacy:õmazpu ch.óacb"><i>sòamacy:õmazpu<b/>ch.óacb</i><par n="ch.óacb__cnjadv"/></e>
 
 <!--  por lo menos;cnjadv --><e lm="sòamimuha:òamimucb"><i>sòamimuha:òamimucb</i><par n="ch.óacb__cnjadv"/></e>
 
@@ -13385,13 +13385,13 @@
 
 <!--  todo lo bien que;cnjadv --><e lm="tan bé com"><i>tan<b/>bé<b/>com</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  al tiempo que;cnjadv --><e lm="ym.ômàmyzpub sahha:ecb"><i>ym.ômàmyzpub<b/>sahha:ecb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  al tiempo que;cnjadv --><e lm="ym.ômàmyzpub sahsha:ecb"><i>ym.ômàmyzpub<b/>sahsha:ecb</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  en cuanto que;cnjadv --><e lm="ym.ômàmyzpub sahha:ecb"><i>ym.ômàmyzpub<b/>sahha:ecb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  en cuanto que;cnjadv --><e lm="ym.ômàmyzpub sahsha:ecb"><i>ym.ômàmyzpub<b/>sahsha:ecb</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  en tanto que;cnjadv --><e lm="ym.ômàmyzpub sahha:ecb"><i>ym.ômàmyzpub<b/>sahha:ecb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  en tanto que;cnjadv --><e lm="ym.ômàmyzpub sahsha:ecb"><i>ym.ômàmyzpub<b/>sahsha:ecb</i><par n="ch.óacb__cnjadv"/></e>
 
-<!--  mientras;cnjadv --><e lm="ym.ômàmyzpub sahha:ecb"><i>ym.ômàmyzpub<b/>sahha:ecb</i><par n="ch.óacb__cnjadv"/></e>
+<!--  mientras;cnjadv --><e lm="ym.ômàmyzpub sahsha:ecb"><i>ym.ômàmyzpub<b/>sahsha:ecb</i><par n="ch.óacb__cnjadv"/></e>
 
 <!--  a poco que;cnjadv --><e lm="z.âecb"><i>z.âecb</i><par n="ch.óacb__cnjadv"/></e>
 
@@ -13416,7 +13416,7 @@
 <e lm="tm.écb"><i>tm.écb</i><par n="sòamémaha:òacrouzp__vbser"/></e>
 
 <!--  ser# suficiente;vblex -->
-<e lm="sv:ôamamudohe"><i>sv:ôamamudohe</i><par n="sòamémaha:òacrouzp__vbser"/></e>
+<e lm="sv:òamamudohe"><i>sv:òamamudohe</i><par n="sòamémaha:òacrouzp__vbser"/></e>
 
     <!-- 
       ******************************
@@ -13451,7 +13451,7 @@
 
 <!--  sumar;vblex --><e lm="oma-Fma"><i>oma-Fma</i><par n="kõã__vblex"/></e>
 
-<!--  vigilar;vblex --><e lm="je scv:pn.emàc"><i>je<b/>scv:pn.emàc</i><par n="kõã__vblex"/></e>
+<!--  vigilar;vblex --><e lm="je svc:pn.emàc"><i>je<b/>svc:pn.emàc</i><par n="kõã__vblex"/></e>
 
 <!--  tragar;vblex --><e lm="v.ôfaho"><i>v.ôfaho</i><par n="kõã__vblex"/></e>
 
@@ -13509,7 +13509,7 @@
 
 <!--  atrever;vblex --><e lm="yéágrol"><i>yéágrol</i><par n="kõã__vblex"/></e>
 
-<!--  quitar;vblex --><e lm="omemuloo"><i>omemuloo</i><par n="kõã__vblex"/></e>
+<!--  quitar;vblex --><e lm="omemulo"><i>omemulo</i><par n="kõã__vblex"/></e>
 
 <!--  progresar;vblex --><e lm="sòmimucu:ememuzea"><i>sòmimucu:ememuzea</i><par n="kõã__vblex"/></e>
 
@@ -13575,7 +13575,7 @@
 
 <!--  airear;vblex --><e lm="s:oméjfaheb"><i>s:oméjfaheb</i><par n="kõã__vblex"/></e>
 
-<!--  amamantar;vblex --><e lm="ymóãldeb"><i>ymóãldeb</i><par n="kõã__vblex"/></e>
+<!--  amamantar;vblex --><e lm="ymõãldeb"><i>ymõãldeb</i><par n="kõã__vblex"/></e>
 
 <!--  amasar;vblex --><e lm="s:omemullfaheb"><i>s:omemullfaheb</i><par n="kõã__vblex"/></e>
 
@@ -13645,7 +13645,7 @@
 
 <!--  besar;vblex --><e lm="sho:ômac-she:ômac"><i>sho:ômac-she:ômac</i><par n="kõã__vblex"/></e>
 
-<!--  bostezar;vblex --><e lm="v.âemalhd"><i>v.âemalhd</i><par n="kõã__vblex"/></e>
+<!--  bostezar;vblex --><e lm="v.âemaldh"><i>v.âemaldh</i><par n="kõã__vblex"/></e>
 
 <!--  bucear;vblex --><e lm="sòamimuhu:eimomuqeu"><i>sòamimuhu:eimomuqeu</i><par n="kõã__vblex"/></e>
 
@@ -13763,7 +13763,7 @@
 
 <!--  empapar;vblex --><e lm="s:chòãldeyb"><i>s:chòãldeyb</i><par n="kõã__vblex"/></e>
 
-<!--  enfermar;vblex --><e lm="sahha:iãcb"><i>sahha:iãcb</i><par n="kõã__vblex"/></e>
+<!--  enfermar;vblex --><e lm="sahsha:iãcb"><i>sahsha:iãcb</i><par n="kõã__vblex"/></e>
 
 <!--  escupir;vblex --><e lm="vaëmamule"><i>vaëmamule</i><par n="kõã__vblex"/></e>
 
@@ -13791,7 +13791,7 @@
 
 <!--  inundar;vblex --><e lm="v.ama s:omemuqa"><i>v.ama<b/>s:omemuqa</i><par n="kõã__vblex"/></e>
 
-<!--  bajar;vblex --><e lm="abéímèmuwue"><i>abéímèmuwue</i><par n="kõã__vblex"/></e>
+<!--  bajar;vblex --><e lm="abéímèmuweu"><i>abéímèmuweu</i><par n="kõã__vblex"/></e>
 
 <!--  fundar;vblex --><e lm="ahsòamimuhu:iämemalac"><i>ahsòamimuhu:iämemalac</i><par n="kõã__vblex"/></e>
 
@@ -14005,7 +14005,7 @@
 
 <!--  depender;vblex --><e lm="qm.ömamuwy"><i>qm.ömamuwy</i><par n="kõã__vblex"/></e>
 
-<!--  ahorcar;vblex --><e lm="qmömàuway"><i>qmömàuway</i><par n="kõã__vblex"/></e>
+<!--  ahorcar;vblex --><e lm="qmömàmuway"><i>qmömàmuway</i><par n="kõã__vblex"/></e>
 
 <!--  no apetecer;vblex --><e lm="thòa-mamufahe"><i>thòa-mamufahe</i><par n="kõã__vblex"/></e>
 
@@ -14143,7 +14143,7 @@
 
 <!--  desplazar;vblex --><e lm="s:äememuceal"><i>s:äememuceal</i><par n="kõã__vblex"/></e>
 
-<!--  felicitar;vblex --><e lm="s:ëamapeb"><i>s:ëamapeb</i><par n="kõã__vblex"/></e>
+<!--  felicitar;vblex --><e lm="s:aëmapeb"><i>s:aëmapeb</i><par n="kõã__vblex"/></e>
 
 <!--  gastar;vblex --><e lm="s:ñm.aëmidahelb"><i>s:ñm.aëmidahelb</i><par n="kõã__vblex"/></e>
 
@@ -14161,7 +14161,7 @@
 
 <!--  alabar;vblex --><e lm="s:òmamapeb"><i>s:òmamapeb</i><par n="kõã__vblex"/></e>
 
-<!--  aprobar;vblex --><e lm="s:óamèmapoa"><i>s:óamèmapoa</i><par n="kõã__vblex"/></e>
+<!--  aprobar;vblex --><e lm="s:óamèmapao"><i>s:óamèmapao</i><par n="kõã__vblex"/></e>
 
 <!--  coincidir;vblex --><e lm="s:ômac"><i>s:ômac</i><par n="kõã__vblex"/></e>
 
@@ -14215,9 +14215,9 @@
 
 <!--  extender;vblex --><e lm="sc:ömemuly"><i>sc:ömemuly</i><par n="kõã__vblex"/></e>
 
-<!--  enterrar;vblex --><e lm="scar:òmemuwe"><i>scar:òmemuwe</i><par n="kõã__vblex"/></e>
+<!--  enterrar;vblex --><!--<e lm="scar:òmemuwe"><i>scar:òmemuwe</i><par n="kõã__vblex"/></e>-->
 
-<!--  hablar;vblex --><e lm="sl:ch.àowheb"><i>sl:ch.àowheb</i><par n="kõã__vblex"/></e>
+<!--  hablar;vblex --><e lm="sl:ch.òawheb"><i>sl:ch.òawheb</i><par n="kõã__vblex"/></e>
 
 <!--  hacer# el amor;vblex --><e lm="sva:omèq"><i>sva:omèq</i><par n="kõã__vblex"/></e>
 
@@ -14233,7 +14233,7 @@
 
 <!--  inscribir;vblex --><e lm="sòamahy:emomycrec"><i>sòamahy:emomycrec</i><par n="kõã__vblex"/></e>
 
-<!--  maltratar;vblex --><e lm="semaho:òamezpfahhob"><par n="/semaho:òamezpfahhob__vblex"/></e>
+<!--  maltratar;vblex --><e lm="semaho:òamezpfahob"><par n="/semaho:òamezpfahob__vblex"/></e>
 
 <!--  acosar;vblex --><e lm="semaco:ömemuzgreb"><i>semaco:ömemuzgreb</i><par n="kõã__vblex"/></e>
 
@@ -14301,7 +14301,7 @@
 
 <!--  excusar;vblex --><e lm="sl:abomamawraho"><i>sl:abomamawraho</i><par n="kõã__vblex"/></e>
 
-<!--  violar;vblex --><e lm="slr:ömamacro"><i>slr:ömamacro</i><par n="kõã__vblex"/></e>
+<!--  violar;vblex --><e lm="srl:ömamacro"><i>srl:ömamacro</i><par n="kõã__vblex"/></e>
 
 <!--  competir;vblex --><e lm="sl:amiwhub"><i>sl:amiwhub</i><par n="kõã__vblex"/></e>
 
@@ -14367,7 +14367,7 @@
 
 <!--  correr;vblex --><e lm="sl:ömèwraeheb"><i>sl:ömèwraeheb</i><par n="kõã__vblex"/></e>
 
-<!--  traducir;vblex --><e lm="slr:eimimyjcrewe"><i>slr:eimimyjcrewe</i><par n="kõã__vblex"/></e>
+<!--  traducir;vblex --><e lm="srl:eimimyjcrewe"><i>srl:eimimyjcrewe</i><par n="kõã__vblex"/></e>
 
 <!--  tener# sentido;vblex --><e lm="somacy:omeze"><i>somacy:omeze</i><par n="kõã__vblex"/></e>
 
@@ -14431,7 +14431,7 @@
 
 <!--  afrontar;vblex --><e lm="sòamamaho:òamamacro"><i>sòamamaho:òamamacro</i><par n="kõã__vblex"/></e>
 
-<!--  lamer;vblex --><e lm="sòameaha:õamemufehozpb"><i>sòameaha:õamemufehozpb</i><par n="kõã__vblex"/></e>
+<!--  lamer;vblex --><e lm="sòamemaha:õamemufehozpb"><i>sòamemaha:õamemufehozpb</i><par n="kõã__vblex"/></e>
 
 <!--  desconectar;vblex --><e lm="s:tmeimimuwuy"><i>s:tmeimimuwuy</i><par n="kõã__vblex"/></e>
 
@@ -14489,7 +14489,7 @@
 
 <!--  demostrar;vblex --><e lm="sòamémaha:òamèmacb"><i>sòamémaha:òamèmacb</i><par n="kõã__vblex"/></e>
 
-<!--  guardar;vblex --><e lm="sòamémucu:òmèmuzea"><i>sòamémucu:òmèmuzea</i><par n="kõã__vblex"/></e>
+<!--  guardar;vblex --><e lm="sòamémucu:òmèmuzae"><i>sòamémucu:òmèmuzae</i><par n="kõã__vblex"/></e>
 
 <!--  sobornar;vblex --><e lm="sòamémuhu:aëmèze"><i>sòamémuhu:aëmèze</i><par n="kõã__vblex"/></e>
 
@@ -14519,7 +14519,7 @@
 
 <!--  crear;vblex --><e lm="sòmimuhu:iämemalac"><i>sòmimuhu:iämemalac</i><par n="kõã__vblex"/></e>
 
-<!--  bastar;vblex --><e lm="sv:ôamamudohe"><i>sv:ôamamudohe</i><par n="kõã__vblex"/></e>
+<!--  bastar;vblex --><e lm="sv:òamamudohe"><i>sv:òamamudohe</i><par n="kõã__vblex"/></e>
 
 <!--  arrastrar;vblex --><e lm="sòmémaca:eimomaze"><i>sòmémaca:eimomaze</i><par n="kõã__vblex"/></e>
 
@@ -14593,7 +14593,7 @@
 
 <!--  levantar# la mano;vblex --><e lm="yniwegro"><i>yniwegro</i><par n="kõã__vblex"/></e>
 
-<!--  ser# capaz;vblex --><e lm="yeagrol"><i>yeagrol</i><par n="kõã__vblex"/></e>
+<!--  ser# capaz;vblex --><e lm="yõãgrold"><i>yõãgrold</i><par n="kõã__vblex"/></e>
 
 <!--  envolver;vblex --><e lm="yòaldeb shal:òmiwraeheb"><i>yòaldeb<b/>shal:òmiwraeheb</i><par n="kõã__vblex"/></e>
 
@@ -14675,7 +14675,7 @@
 
 <!--  venir;vblex --><e lm="abéímamuwui"><par n="/abéímamuwui__vblex"/></e>
 
-<!--  entregar;vblex --><e lm="ëamacea"><par n="/ëamacea__vblex"/></e>
+<!--  entregar;vblex --><e lm="aëmacea"><par n="/aëmacea__vblex"/></e>
 
 <!--  fallecer;vblex --><e lm="òamemacro"><i>òamemacro</i><par n="òamemacro__vblex"/></e>
 
@@ -14753,7 +14753,7 @@
 
 <!--  ahora;adv --><e lm="chomaq"><i>chomaq</i><par n="chomaq__advtmppr"/></e>
 
-<!--  ya;adv --><e lm="ym.ŏazpub"><i>ym.ŏazpub</i><par n="chomaq__advtmppr"/></e>
+<!--  ya;adv --><e lm="ym.õazpub"><i>ym.õazpub</i><par n="chomaq__advtmppr"/></e>
 
 <!--  arriba;adv --><e lm="ebemamuwa"><i>ebemamuwa</i><par n="yiāgro__adv"/></e>
 
@@ -14765,7 +14765,7 @@
 
 <!--  en el pasado;adv --><e lm="hm.òmamafahocb"><i>hm.òmamafahocb</i><par n="hm.õamamacoac__advtmpps"/></e>
 
-<!--  después de que;cnjadv --><e lm="ebemiucrea"><i>ebemiucrea</i><par n="yiāgro__adv"/></e>
+<!--  después de que;cnjadv --><e lm="ebemimucrea"><i>ebemimucrea</i><par n="yiāgro__adv"/></e>
 
 <!--  sí;adv --><e lm="iãmamuzpb"><i>iãmamuzpb</i><par n="yiāgro__adv"/></e>
 
@@ -14805,7 +14805,7 @@
 
 <!--  detrás;adv --><e lm="r.amawob"><i>r.amawob</i><par n="yiāgro__adv"/></e>
 
-<!--  con los cinco sentidos;adv --><e lm="rm.òmawe ômamewub"><i>rm.òmawe<b/>ômamewub</i><par n="yiāgro__adv"/></e>
+<!--  con los cinco sentidos;adv --><e lm="rm.òmawe ômawub"><i>rm.òmawe<b/>ômawub</i><par n="yiāgro__adv"/></e>
 
 <!--  nunca más;adv --><e lm="s:Fmap"><i>s:Fmap</i><par n="yiāgro__adv"/></e>
 
@@ -14865,7 +14865,7 @@
 
 <!--  todos los días;adv --><e lm="semiha:emijwraheb"><i>semiha:emijwraheb</i><par n="eimemufaheb__advtmp"/></e>
 
-<!--  al por mayor;adv --><e lm="shar:omaufahe-woo"><i>shar:omaufahe-woo</i><par n="yiāgro__adv"/></e>
+<!--  al por mayor;adv --><e lm="shar:omamufahe-wo"><i>shar:omamufahe-wo</i><par n="yiāgro__adv"/></e>
 
 <!--  de tarde en tarde;adv --><e lm="sl:emamawa"><i>sl:emamawa</i><par n="eimemufaheb__advtmp"/></e>
 
@@ -14881,7 +14881,7 @@
 
 <!--  de gorra;adv --><e lm="sha:eimemullob"><i>sha:eimemullob</i><par n="yiāgro__adv"/></e>
 
-<!--  todo el día;adv --><e lm="sòamiaco:òamamaza sFmeha:Fmamucya"><i>sòamiaco:òamamaza<b/>sFmeha:Fmamucya</i><par n="eimemufaheb__advtmp"/></e>
+<!--  todo el día;adv --><e lm="sòamimaco:òamamaza sFmeha:Fmamucya"><i>sòamimaco:òamamaza<b/>sFmeha:Fmamucya</i><par n="eimemufaheb__advtmp"/></e>
 
 <!--  día a día;adv --><e lm="sòamico:òamamazab"><i>sòamico:òamamazab</i><par n="yiāgro__adv"/></e>
 
