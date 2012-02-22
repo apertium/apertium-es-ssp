@@ -364,13 +364,13 @@
 
 
     <pardef n="/2memadohb__def">
-    <e>
+    <e r="RL">
       <p>
         <l></l> 
         <r>2memadohb<s n="det"/><s n="def"/><s n="sg"/></r> 
       </p>
     </e>
-    <e>
+    <e r="RL">
       <p>
         <l></l> 
         <r>2memadohb<s n="det"/><s n="def"/><s n="pl"/></r> 
@@ -2072,13 +2072,13 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>ym.aëmawe</l> 
         <r>ym.aëmawe<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
      <e>
       <p>
-        <l></l> 
+        <l>ym.aëmawe</l> 
         <r>ym.aëmawe<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
@@ -2131,14 +2131,14 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>ym.aëmawe</l> 
         <r>ym.aëmawe<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l></l> 
+        <l>ym.aëmawe</l> 
         <r>ym.aëmawe<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
@@ -4195,7 +4195,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>ohsòmimuca:ömamawe</l> 
         <r>ohsòmimuca:ömamawe<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -4723,13 +4723,13 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>sho:v.oämemaleb</l> 
         <r>sho:v.oämemaleb<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
      <e>
       <p>
-        <l></l> 
+        <l>sho:v.oämemaleb</l> 
         <r>sho:v.oämemaleb<s n="vblex"/><s n="p1"/><s n="p1"/><s n="pl"/></r> 
       </p>
     </e>
@@ -4782,14 +4782,14 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>sho:v.oämemaleb</l> 
         <r>sho:v.oämemaleb<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l></l> 
+        <l>sho:v.oämemaleb</l> 
         <r>sho:v.oämemaleb<s n="vblex"/><s n="p2"/><s n="p2"/><s n="pl"/></r> 
       </p>
     </e>
@@ -4898,7 +4898,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>s:òamemacea</l> 
         <r>s:òamemacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5073,7 +5073,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>s:sch.oämemaleb</l> 
         <r>s:sch.oämemaleb<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5132,7 +5132,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>s:sch.oämemaleb</l> 
         <r>s:sch.oämemaleb<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5250,7 +5250,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>s:omemaldic-we</l> 
         <r>s:omemaldic-we<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5309,7 +5309,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>s:omemaldic-we</l> 
         <r>s:omemaldic-we<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5775,7 +5775,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>zomagre</l> 
         <r>zomagre<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5834,7 +5834,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>zomagre</l> 
         <r>zomagre<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -5950,7 +5950,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>ëamacea</l> 
         <r>aëmacea<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -6009,7 +6009,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>ëamacea</l> 
         <r>aëmacea<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -7358,7 +7358,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>ömadohe-i</l> 
         <r>ömadohe-i<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -7526,7 +7526,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>semaho:òamezpfahhob</l> 
         <r>semaho:òamezpfahob<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -7695,7 +7695,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>s:õamàmafahe</l> 
         <r>s:õamàmafahe<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -7754,7 +7754,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>s:õamàmafahe</l> 
         <r>s:õamàmafahe<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -8200,7 +8200,7 @@
     </e>
     <e>
       <p>
-        <l></l> 
+        <l>omemuls</l> 
         <r>omemuls<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -8259,7 +8259,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>omemuls</l> 
         <r>omemuls<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -8333,43 +8333,43 @@
 <pardef n="/omemulu_svr:ömàmuc__vblex">
       <e>
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="sg"/></r> 
       </p>
     </e>
 <e>
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="pl"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="ger"/></r> 
       </p>
     </e>   
     <e r="RL">
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="inf"/></r> 
       </p>
     </e> 
  <e r="RL">
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="sg"/></r> 
       </p>
     </e>
 <e r="RL">
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="imp"/><s n="p2"/><s  n="pl"/></r> 
       </p>
     </e>
     <e>
       <p>
-        <l>omemulu svr:ömàmuc</l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="p1"/><s n="p1"/><s n="sg"/></r> 
       </p>
     </e>
@@ -8428,7 +8428,7 @@
 
   <e>
       <p>
-        <l></l> 
+        <l>omemulu<b/>svr:ömàmuc</l> 
         <r>omemulu<b/>svr:ömàmuc<s n="vblex"/><s n="p2"/><s n="p2"/><s n="sg"/></r> 
       </p>
     </e>
@@ -8942,7 +8942,7 @@
 
 <!--  cuánto;prn --><e lm="oämamals"><i>oämamals</i><par n="eämemapib__prn"/></e>
 
-<!--  qué;prn --><e lm="eämemapib"><par n="eämemapib__prn"/></e>
+<!--  qué;prn --><e lm="eämemapib"><i>eämemapib</i><par n="eämemapib__prn"/></e>
 
 <!--  muchos;prn --><e lm="s:omemaldb"><i>s:omemaldb</i><par n="ye__prn"/></e>
 
@@ -13957,7 +13957,7 @@
 
 <!--  afeitar;vblex --><e lm="km.éímamuzpeub"><i>km.éímamuzpeub</i><par n="kõã__vblex"/></e>
 
-<!--  alojar;dormir;vblex --><e lm="kõã"><par n="kõã__vblex"/></e>
+<!--  alojar;dormir;vblex --><e lm="kõã"><i>kõã</i><par n="kõã__vblex"/></e>
 
 <!--  regar;vblex --><e lm="ohsaëmihy:aëmewraiheb"><i>ohsaëmihy:aëmewraiheb</i><par n="kõã__vblex"/></e>
 
@@ -14727,7 +14727,7 @@
 
 <!--  pronto;adv --><e lm="s:òamomufahe"><i>s:òamomufahe</i><par n="eimemufaheb__advtmp"/></e>
 
-<!--  dónde;adv --><e lm="omemuwreiho"><par n="omemuwreiho__adv"/></e>
+<!--  dónde;adv --><e lm="omemuwreiho"><i>omemuwreiho</i><par n="omemuwreiho__adv"/></e>
 
 <!--  todos los años;adv --><e lm="sémemaha:éwreihec"><i>sémemaha:éwreihec</i><par n="eimemufaheb__advtmp"/></e>
 

@@ -2162,7 +2162,7 @@
     <e><p><l>más<s n="adv"/></l><r>olamiwa<s n="adv"/></r></p></e>  
     <e><p><l>más<b/>que<s n="adv"/></l><r>ömamuwefahe<s n="adv"/></r></p></e>  
     <e><p><l>más<b/>y<b/>más<s n="adv"/></l><r>ômamadahery<s n="adv"/></r></p></e> <!--referente inanimado -->
-    <e><p><l>+<s n="cnjcoo"/></l><r>Fma<s n="cnjcoo"/></r></p></e> <!-- entre numerales -->
+   <!-- <e><p><l>+<s n="cnjcoo"/></l><r>Fma<s n="cnjcoo"/></r></p></e>--> <!-- entre numerales -->
     <e><p><l>a<b/>más<b/>de<s n="adv"/></l><r>Fma<s n="adv"/></r></p></e> <!--adición -->
     <e><p><l>a<b/>lo<b/>más<s n="adv"/></l><r>sòamimuhu:ömac<s n="adv"/></r></p></e>     
     <e><p><l>máscara<s n="n"/></l><r>z.o<s n="n"/></r></p></e>  
@@ -2203,7 +2203,7 @@
     <e><p><l>conservar<g><b/>la<b/>memoria</g><s n="vblex"/></l><r>zéma-i<s n="vblex"/></r></p></e>     
     <e><p><l>menor<s n="adj"/></l><r>ebòmamufahe<s n="adj"/></r></p></e> <!-- (CALIDAD) -->
     <e><p><l>mentir<s n="vblex"/></l><r>k.emamuzpeb<s n="vblex"/></r></p></e> 
-    <e><p><l>-<s n="cnjcoo"/></l><r>olemipib<s n="cnjcoo"/></r></p></e> <!-- entre numerales -->
+ <!--   <e><p><l>-<s n="cnjcoo"/></l><r>olemipib<s n="cnjcoo"/></r></p></e> --><!-- entre numerales -->
     <e><p><l>disminuir<s n="vblex"/></l><r>s:áémeti<s n="vblex"/></r></p></e> <!--referente animado-->
     <e><p><l>menos<s n="adv"/></l><r>olõamawu<s n="adv"/></r></p></e>  
     <e><p><l>por<b/>lo<b/>menos<s n="cnjadv"/></l><r>sòamimuha:òamimucb<s n="cnjadv"/></r></p></e> 

@@ -5561,11 +5561,11 @@
     </rule>
 
 <rule comment="REGLA: VERBO HABER + PP
-	       (he, has, ha, hemos, habéis, han) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.ŏazpub 
-	       habiendo vendido: sl:aëmiwraho ym.ŏazpub 
-	       haber vendido: sl:aëmiwraho ym.ŏazpub
-	       (haya, hayas, haya, hayamos, hayáis, hayan) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.ŏazpub
-	       (había, habías, había, habíamos, habíais, habían) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.ŏazpub  ">
+	       (he, has, ha, hemos, habéis, han) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.õazpub 
+	       habiendo vendido: sl:aëmiwraho ym.õazpub 
+	       haber vendido: sl:aëmiwraho ym.õazpub
+	       (haya, hayas, haya, hayamos, hayáis, hayan) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.õazpub
+	       (había, habías, había, habíamos, habíais, habían) + PP (vendido):(pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.õazpub  ">
 
       <pattern>
         <pattern-item n="haver_ya"/>
@@ -5604,7 +5604,7 @@
             </lu>
 	    <b/>
 	    <lu>
-		<lit v="ym.ŏazpub"/>
+		<lit v="ym.õazpub"/>
 	        <lit-tag v="adv"/>
 	    </lu>
           </chunk>
@@ -5614,7 +5614,7 @@
 
 
 <rule comment="REGLA: VERBO HABERFTI + PP
-	       (habré, habrás, habrá, habremos, habréis, habrán) + PP (vendido): hm.õamewe (pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.ŏazpub ">
+	       (habré, habrás, habrá, habremos, habréis, habrán) + PP (vendido): hm.õamewe (pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.õazpub ">
       <pattern>
         <pattern-item n="haverfti"/>
         <pattern-item n="verbpp"/>
@@ -5664,7 +5664,7 @@
             </lu>
 	    <b/>
 	    <lu>
-		<lit v="ym.ŏazpub"/>
+		<lit v="ym.õazpub"/>
 	        <lit-tag v="adv"/>
 	    </lu>
           </chunk>
@@ -5771,7 +5771,7 @@
 
 
 <rule comment="REGLA: HABERFTS + PP
-	       (Hubiere, hubieres, hubiere, hubiéremos, hubiereis, hubieren) + PP (vendido): hm.õamewe (pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.ŏazpub ">
+	       (Hubiere, hubieres, hubiere, hubiéremos, hubiereis, hubieren) + PP (vendido): hm.õamewe (pr_pers: ye,ele,eyle,olemumawraho,elememuwraho,eyledahb) sl:aëmiwraho ym.õazpub ">
       <pattern>
         <pattern-item n="haverfts"/>
         <pattern-item n="verbpp"/>
@@ -5821,7 +5821,7 @@
             </lu>
 	    <b/>
             <lu>
-	      <lit v="ym.ŏazpub"/>
+	      <lit v="ym.õazpub"/>
 	      <lit-tag v="adv"/>
 	    </lu>
           </chunk>
