@@ -31,7 +31,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-anmor" install="yes">
+  <mode name="es-ssp-anmor" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -39,7 +39,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-tagger" install="yes">
+  <mode name="es-ssp-tagger" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -50,7 +50,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-pretransfer" install="yes">
+  <mode name="es-ssp-pretransfer" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -62,7 +62,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-chunker" install="yes">
+  <mode name="es-ssp-chunker" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -79,7 +79,7 @@
     </pipeline>
   </mode>
   
-  <mode name="es-ssp-interchunk" install="yes">
+  <mode name="es-ssp-interchunk" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -100,7 +100,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-postchunk" install="yes">
+  <mode name="es-ssp-postchunk" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>
@@ -125,7 +125,7 @@
     </pipeline>
   </mode>
 
-  <mode name="es-ssp-generador" install="yes">
+  <mode name="es-ssp-generador" install="no">
     <pipeline>
       <program name="lt-proc">
         <file name="es-ssp.automorf.bin"/>

@@ -1340,9 +1340,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
@@ -1372,9 +1372,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
@@ -1401,9 +1401,9 @@
         <pattern-item n="adv_preadv"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="adv" case="caseFirstWord">
             <tags>
@@ -1451,9 +1451,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <choose>
           <when>
             <test>
@@ -1717,9 +1717,9 @@
         <pattern-item n="adjpos"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <choose>
           <when>
             <test>
@@ -2253,9 +2253,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
          <choose>
           <when>
            <test>
@@ -2878,9 +2878,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
        <choose>
         <when>
          <test>
@@ -3015,9 +3015,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <choose>
           <when>
             <test>
@@ -3343,9 +3343,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 	<choose>
          <when>
           <test>                      
@@ -3570,9 +3570,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 	<choose>
          <when>
           <test>  
@@ -3688,9 +3688,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
           <choose>
            <when>
             <test>
@@ -4005,9 +4005,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <choose>
           <when>
             <test>
@@ -4200,9 +4200,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="nom_adj" case="caseFirstWord">
             <tags>
@@ -4242,9 +4242,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="nom_adj_adj" case="caseFirstWord">
             <tags>
@@ -4293,9 +4293,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
          <choose>
           <when>
            <test>
@@ -4427,9 +4427,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="nom_adj_cnjcoo_adj" case="caseFirstWord">
             <tags>
@@ -4473,9 +4473,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="adj_cnjcoo_adj" case="caseFirstWord">
             <tags>
@@ -4517,9 +4517,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
          <choose>
           <when>
            <test>
@@ -4655,9 +4655,9 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
          <choose>
           <when>
            <test>
@@ -4726,9 +4726,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="sa" case="caseFirstWord">
             <tags>
@@ -4763,9 +4763,9 @@
         <pattern-item n="det"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="det" case="caseFirstWord">
             <tags>
@@ -4830,9 +4830,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -4878,9 +4878,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -4928,9 +4928,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="2"/>
             </call-macro>
@@ -4977,9 +4977,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5038,9 +5038,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5104,9 +5104,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5165,9 +5165,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5214,9 +5214,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
              <out>
           <chunk name="acabar_inf" case="caseFirstWord">
             <tags>
@@ -5248,9 +5248,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
              <out>
           <chunk name="acabar_ger" case="caseFirstWord">
             <tags>
@@ -5285,9 +5285,9 @@
         <pattern-item n="verbpres"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5367,9 +5367,9 @@
         <pattern-item n="imp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5412,9 +5412,9 @@
         <pattern-item n="verbpas"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5470,9 +5470,9 @@
         <pattern-item n="verbfut"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5525,9 +5525,9 @@
         <pattern-item n="verbcond"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
  <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5572,9 +5572,9 @@
         <pattern-item n="verbpp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
  <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5620,9 +5620,9 @@
         <pattern-item n="verbpp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
  <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5680,9 +5680,9 @@
         <pattern-item n="verbpp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+       <!-- <call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5722,9 +5722,9 @@
         <pattern-item n="verbpp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5777,9 +5777,9 @@
         <pattern-item n="verbpp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -5840,9 +5840,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="haberque" case="caseFirstWord">
             <tags>
@@ -5878,9 +5878,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="haberimpque" case="caseFirstWord">
             <tags>
@@ -5916,9 +5916,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="advpasado" case="caseFirstWord">
             <tags>
@@ -5965,9 +5965,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="advfuturo" case="caseFirstWord">
             <tags>
@@ -6018,9 +6018,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6069,9 +6069,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6133,9 +6133,9 @@
         <pattern-item n="haverqueinf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6203,9 +6203,9 @@
         <pattern-item n="adj__pp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6247,9 +6247,9 @@
         <pattern-item n="adj__pp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="estarinfger_adj_pp" case="caseFirstWord">
             <tags>
@@ -6280,9 +6280,9 @@
         <pattern-item n="adj__pp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6338,9 +6338,9 @@
         <pattern-item n="adj__pp"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6396,9 +6396,9 @@
         <pattern-item n="verbcuándofut"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="2"/>
             </call-macro>
@@ -6445,9 +6445,9 @@
         <pattern-item n="verbperspas"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="2"/>
             </call-macro>
@@ -6494,9 +6494,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="cuándo_inf" case="caseFirstWord">
             <tags>
@@ -6528,9 +6528,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="ger" case="caseFirstWord">
             <tags>
@@ -6567,9 +6567,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="inf" case="caseFirstWord">
             <tags>
@@ -6606,9 +6606,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6666,9 +6666,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="estarinfger_ger" case="caseFirstWord">
             <tags>
@@ -6697,9 +6697,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6753,9 +6753,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6810,9 +6810,9 @@
         <pattern-item n="ger"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 <call-macro n="choose_prn2">
               <with-param pos="1"/>
             </call-macro>
@@ -6855,9 +6855,9 @@
         <pattern-item n="inf"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="inf" case="caseFirstWord">
             <tags>
@@ -6890,9 +6890,9 @@
         <pattern-item n="verbperspr"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
  <call-macro n="choose_prn2">
               <with-param pos="1"/>
          </call-macro>  
@@ -6992,9 +6992,9 @@
         <pattern-item n="verbperspas"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
          <call-macro n="choose_prn2">
               <with-param pos="1"/>
          </call-macro>  
@@ -7107,9 +7107,9 @@
         <pattern-item n="verbpersfut"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
  <call-macro n="choose_prn2">
               <with-param pos="1"/>
          </call-macro>  
@@ -7220,9 +7220,9 @@
         <pattern-item n="prnpro"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="pro" case="caseFirstWord">
             <tags>
@@ -7257,9 +7257,9 @@
         <pattern-item n="prnperssubj"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <choose>
           <when>
             <test>
@@ -7364,9 +7364,9 @@
         <pattern-item n="prnsubj"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="prnsubj" case="caseFirstWord">
             <tags>
@@ -7407,9 +7407,9 @@
         <pattern-item n="prnitg"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="prnitg" case="caseFirstWord">
             <tags>
@@ -7448,9 +7448,9 @@
         <pattern-item n="rel"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
 	<choose>
 	  <when>
 	    <test>
@@ -7528,9 +7528,9 @@
         <pattern-item n="cnj"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="cnj" case="caseFirstWord">
             <tags>
@@ -7560,9 +7560,9 @@
         <pattern-item n="prep"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <let>
           <var n="lema"/>
           <clip pos="1" side="tl" part="lem"/>
@@ -7595,9 +7595,9 @@
         <pattern-item n="numeral"/>
       </pattern>
       <action>
-        <call-macro n="firstWord">
+        <!--<call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
+        </call-macro>-->
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
