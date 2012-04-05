@@ -758,9 +758,6 @@
         <r>b<s n="n"/><s n="sg"/></r> 
       </p>
     </e>
-       </pardef>
-
-<pardef n="ch.eämiwraehe/b__n">
     <e>
       <p>
         <l>r</l> 
@@ -9644,7 +9641,7 @@
 
 <!--  error;n --><e lm="ch.eumic"><i>ch.eumic</i><par n="s:òmamudohov__n"/></e>
 
-<!--  tarde;n --><e lm="ch.eämiwraeheb"><i>ch.eämiwraeheb</i><par n="ch.eämiwraehe/b__n"/></e>
+<!--  tarde;n --><e lm="ch.eämiwraeheb"><i>ch.eämiwraehe</i><par n="ch.eämiwraehe/b__n"/></e>
 
 <!--  botón;n --><e lm="amepeb"><i>amepe</i><par n="amepe/b__n"/></e>
 
@@ -12429,7 +12426,7 @@
 
 <!--  basta;ij --><e lm="sv:òamàmudohe"><i>sv:òamàmudohe</i><par n="omaudahb__ij"/></e>
 
-<!--  buenas noches;ij --><e lm="vôle s:òmamudohev"><i>vôle<b/>s:òmamudohev</i><par n="omaudahb__ij"/></e>
+<!--  buenas noches;ij --><e lm="v.ôle s:òmamudohov"><i>v.ôle<b/>s:òmamudohov</i><par n="omaudahb__ij"/></e>
 
 <!--  por favor;ij --><e lm="y.omimucb"><i>y.omimucb</i><par n="omaudahb__ij"/></e>
 
@@ -12444,6 +12441,11 @@
 <!--  alto;ij --><e lm="òmamuwep"><i>òmamuwep</i><par n="omaudahb__ij"/></e>
 
 <!--  suerte;ij --><e lm="s:alRmamupeb"><i>s:alRmamupeb</i><par n="omaudahb__ij"/></e>
+
+<!--  buenos días;ij --><e lm="v.ôle sòamico:òamamaza"><i>v.ôle<b/>sòamico:òamamaza</i><par n="omaudahb__ij"/></e>
+
+<!--  buenas noches;ij --><e lm="v.ôle ch.eämiwraeheb"><i>v.ôle<b/>ch.eämiwraeheb</i><par n="omaudahb__ij"/></e>
+
     <!-- 
       ******************************
       (adj) group

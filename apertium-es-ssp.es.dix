@@ -84299,6 +84299,9 @@
 <e lm="hola"><i>hola</i><par n="adiós__ij"/></e>
 <e lm="suerte"><i>suerte</i><par n="adiós__ij"/></e>
 <e lm="felicidades"><i>felicidades</i><par n="adiós__ij"/></e>
+<e lm="buenas noches"><i>buenas<b/>noches</i><par n="adiós__ij"/></e>
+<e lm="buenas tardes"><i>buenas<b/>tardes</i><par n="adiós__ij"/></e>
+<e lm="buenos días"><i>buenos<b/>días</i><par n="adiós__ij"/></e>
     <!-- 
       ******************************
       (adj) group

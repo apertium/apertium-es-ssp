@@ -742,6 +742,7 @@
     <e><p><l>buceo<s n="n"/></l><r>sòamimuhu:eimomuqeu<s n="n"/></r></p></e> 
     <e><p><l>bucear<s n="vblex"/></l><r>sòamimuhu:eimomuqeu<s n="vblex"/></r></p></e>
     <e><p><l>bueno<s n="adj"/></l><r>v.ôle<s n="adj"/></r></p></e>  
+    <e><p><l>buenos<b/>días<s n="ij"/></l><r>v.ôle<b/>sòamico:òamamaza<s n="ij"/></r></p></e>  
     <e><p><l>buena<g><b/>persona</g><s n="n"/></l><r>v.ô-y.òacb<s n="n"/></r></p></e>  
     <e><p><l>estar<g><b/>bueno</g><s n="vblex"/></l><r>v.e-ômemawhub<s n="vblex"/></r></p></e>  
     <e><p><l>bufanda<s n="n"/></l><r>thò-qn.òmomyc<s n="n"/></r></p></e>  
@@ -2523,7 +2524,7 @@
     <e><p><l>sí<b/>o<b/>no<s n="ij"/></l><r>emamufahe-olemimudahe<s n="ij"/></r></p></e>     
     <e><p><l>noche<s n="n"/></l><r>s:òmamudohov<s n="n"/></r></p></e>
     <e><p><l>no<s n="adv"/></l><r>emamudahb-n<s n="adv"/></r></p></e> 
-    <e><p><l>buenas<b/>noches<s n="ij"/></l><r>vôle<b/>s:òmamudohev<s n="ij"/></r></p></e> 
+    <e><p><l>buenas<b/>noches<s n="ij"/></l><r>v.ôle<b/>s:òmamudohov<s n="ij"/></r></p></e> 
     <e><p><l>nómina<s n="n"/></l><r>sc:ememuwy-wu-wic<b/>ym.aëmazpu<s n="n"/></r></p></e>  
     <e><p><l>novato<s n="n"/></l><r>s:aleimamullb<s n="n"/></r></p></e>  
     <e><p><l>nube<s n="n"/></l><r>alsc:ómaqy<s n="n"/></r></p></e>  
@@ -2895,6 +2896,7 @@
     <e><p><l>de<b/>tarde<b/>en<b/>tarde<s n="adv"/></l><r>sl:emamawa<s n="adv"/></r></p></e> 
     <e><p><l>tarde<s n="n"/></l><r>ch.eämiwraeheb<s n="n"/></r></p></e>  
     <e><p><l>tarde<s n="adv"/></l><r>sahca:òamifaho<s n="adv"/></r></p></e>  
+    <e><p><l>buenas<b/>tardes<s n="ij"/></l><r>v.ôle<b/>ch.eämiwraeheb<s n="ij"/></r></p></e>  
     <e><p><l>taza<s n="n"/></l><r>vm.eämigro<s n="n"/></r></p></e>  
     <e><p><l>te<s n="n"/></l><r>sõámiha:eâwub<s n="n"/></r></p></e>  
     <e><p><l>teatro<s n="n"/></l><r>sl:ym.eämàweb<s n="n"/></r></p></e>    
