@@ -72,9 +72,10 @@ apertium_es_ssp_DATA=$(PREFIX1).automorf.bin  \
 
 install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_es_sspmodesdir)
-	$(INSTALL_DATA) *.mode $(apertium_es_sspmodesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(apertium_es_sspdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_es_sspdir)
+	test -d $(DESTDIR)$(apertium_es_sspmodesdir) || mkdir $(DESTDIR)$(apertium_es_sspmodesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_es_sspmodesdir)
+	$(INSTALL_DATA) *.mode $(DESTDIR)$(apertium_es_sspmodesdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_es_sspdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_es_sspdir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes *.mode
