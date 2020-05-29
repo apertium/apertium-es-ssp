@@ -1,4 +1,3 @@
-VERSION=0.8
 LANG1=es
 LANG2=ssp
 PREFIX1=$(LANG1)-$(LANG2)
@@ -8,9 +7,10 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
      $(PREFIX1).autopgen.bin \
-     $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-     modes
-     
+     $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin
+
+@ap_include@
+
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	lt-comp lr $(BASENAME).$(LANG1).dix $@
@@ -49,33 +49,17 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(PREFIX1).t3x \
            modes.xml
 
-	
 apertium_es_sspdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_es_sspmodesdir=$(prefix)/share/apertium/modes/
-
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-
-modes: modes.xml
-	apertium-gen-modes modes.xml
-
 
 apertium_es_ssp_DATA=$(PREFIX1).automorf.bin  \
 	$(PREFIX1).autobil.bin  \
 	$(PREFIX1).autogen.bin  \
 	$(PREFIX1).autopgen.bin \
 	$(PREFIX1).prob  \
-	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX1).mode 
+	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin
 
-install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_es_sspmodesdir) || mkdir $(DESTDIR)$(apertium_es_sspmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_es_sspmodesdir)
-	$(INSTALL_DATA) *.mode $(DESTDIR)$(apertium_es_sspmodesdir)
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_es_sspdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_es_sspdir)
 
-CLEANFILES = -rf $(TARGETS_COMMON) modes *.mode
+CLEANFILES = -rf $(TARGETS_COMMON)
