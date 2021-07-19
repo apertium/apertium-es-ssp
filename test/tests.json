@@ -1,0 +1,6 @@
+{
+    "es-ssp": {
+        "input": "es-ssp-input.txt",
+        "mode": "es-ssp"
+    }
+}

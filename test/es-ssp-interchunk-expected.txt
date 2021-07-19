@@ -1,0 +1,10 @@
+[3Ani7pB-jFEh#0] ^unknown<unknown>{^*xenanc$}$
+[/3Ani7pB-jFEh]
+[eMs3sI6PDJww#0] ^cifra<SN><mf><sp>{^1,392<num>$}$
+[/eMs3sI6PDJww]
+[io3oI9XtPhJ0#0] ^punt<sent>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[n3UwRK2Yli5A#0] ^num<SN><m><sg>{^@7%<num><percent>$}$
+[/n3UwRK2Yli5A]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
